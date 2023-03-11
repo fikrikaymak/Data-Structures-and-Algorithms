@@ -17,6 +17,9 @@
 * *Write the Big-O notation.*
 
 2^x^ = n
+
 x = logn
+
 x*n= Big-O notation
+
 **O(nlogn)**
