@@ -13,8 +13,10 @@
      [11,16,21]           [8,12,22]
            [8,11,12,16,21,22]
 ```
+```
 * *Write the Big-O notation.*
 2^x^ = n
 x = logn
 x*n= Big-O notation
 **O(nlogn)**
+```
